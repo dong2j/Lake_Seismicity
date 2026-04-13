@@ -1,11 +1,11 @@
 # Do damaging earthquakes worldwide respond to lake storage changes?
 
-Code for the study:
+Code for the manuscript:
 
 **Li, Linxuan & Dong, Junjie** (submitted)
 *Do damaging earthquakes worldwide respond to lake storage changes?*
 
-This repository contains code to reproduce the main statistical analyses and figures for the paper on the relationship between global lake storage changes and nearby damaging earthquakes (M 5.5+ and depth <= 30 km).
+This repository contains code to reproduce the statistical analyses and figures for the paper on the relationship between global lake storage changes and nearby damaging earthquakes.
 
 ## Overview
 
